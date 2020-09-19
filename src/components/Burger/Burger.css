@@ -1,0 +1,12 @@
+.burger__wrapper {
+  margin-right: 40px;
+}
+.burger__wrapper span {
+  background: #343a40;
+  display: block;
+  position: relative;
+  width: 30px;
+  height: 2px;
+  margin: 0.5rem;
+  transition: all ease-in-out 0.3s;
+}

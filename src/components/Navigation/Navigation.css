@@ -1,0 +1,13 @@
+.header__nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  min-height: 12vh;
+  min-width: 100%;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.1);
+  background: #f8f9fa;
+  z-index: 10;
+}
